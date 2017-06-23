@@ -1,0 +1,12 @@
+{
+    "name": "luojixinhao/phpspider"
+    ,"type": "library"
+    ,"description": "copy from owner888/phpspider"
+    ,"keywords": []
+    ,"homepage": "https://github.com/luojixinhao/phpspider"
+    ,"license": "MIT"
+    ,"authors": [],
+    "autoload": {
+        "files": ["core/init.php"]
+    }
+}
